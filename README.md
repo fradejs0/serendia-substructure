@@ -1,5 +1,4 @@
-# discord-bot-v12
-Serendia Squad için geliştirilen ücretsiz bir alt yapıdır.
+
 ## İçerikler
 * [Kurulum](#Kurulum)
 
@@ -37,4 +36,4 @@ Yazarak çalıştıramazsanız `node index.js` kullanmayı deneyin.
 
 ## Bilgilendirme
 
-Bu altyapı **Serendia Squad** sunucusu için **Alosha** tarafından hazırlanmıştır.
+Bu altyapı **Frade** tarafından hazırlanmıştır.
